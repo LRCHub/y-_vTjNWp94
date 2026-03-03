@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Cyber Kawaii Kunai Girl",
+  "base_artist": "yanagamiyuki",
+  "createdAt": "2026-03-03T02:55:44.121749Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cyber Kawaii Kunai Girl",
+      "artist": "yanagamiyuki",
+      "has_synced": false,
+      "path": "select/pl_01_Cyber_Kawaii_Kunai_Girl_yanagamiyuki.txt"
+    }
+  ]
+}
